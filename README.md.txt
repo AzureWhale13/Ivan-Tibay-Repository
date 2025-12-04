@@ -1,0 +1,1 @@
+I'm Ivan Julian S. Tibay! I am a 2nd year BS Information Technology student from Republic Central Colleges. I’m willingly like to learn new things, exploring different technologies in the IT field. This repository is part of my journey as I practice Git, GitHub, and other tools that will help me become a better developer.
